@@ -1,14 +1,10 @@
 let a =5;
 for(let i=1; i<=a ;i++){
 let str ="";
-<<<<<<< HEAD
-	for(let j=1; j<=i; j++){
-		str+="*";
-=======
+
 	for(let j=1;j<=i;j++){
 		str+="Hello";
->>>>>>> dfa82e10324790d0460076e2695c3823249a39e1
-	}
+
 	console.log(str);
 }
 
